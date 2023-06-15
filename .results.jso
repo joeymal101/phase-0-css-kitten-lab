@@ -1,0 +1,108 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-06-15T23:53:12.999Z",
+    "end": "2023-06-15T23:53:13.007Z",
+    "duration": 8
+  },
+  "tests": [
+    {
+      "title": "selects the image with a class of kitty-1",
+      "fullTitle": "place-kitty.css selects the image with a class of kitty-1",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image with an id of kitty-2",
+      "fullTitle": "place-kitty.css selects the image with an id of kitty-2",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image inside the element with an id of basket (via descendent relationship)",
+      "fullTitle": "place-kitty.css selects the image inside the element with an id of basket (via descendent relationship)",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image based on the respective sibling element",
+      "fullTitle": "place-kitty.css selects the image based on the respective sibling element",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "fullTitle": "place-kitty.css Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "selects the image with a class of kitty-1",
+      "fullTitle": "place-kitty.css selects the image with a class of kitty-1",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image with an id of kitty-2",
+      "fullTitle": "place-kitty.css selects the image with an id of kitty-2",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image inside the element with an id of basket (via descendent relationship)",
+      "fullTitle": "place-kitty.css selects the image inside the element with an id of basket (via descendent relationship)",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "selects the image based on the respective sibling element",
+      "fullTitle": "place-kitty.css selects the image based on the respective sibling element",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "fullTitle": "place-kitty.css Selects the image that has an alt attribute value matching \"Kitty 5\", via the attribute selector",
+      "file": "/Users/joellmalone/Development/code/prework/phase-0-css-kitten-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
